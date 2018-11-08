@@ -14,18 +14,18 @@ Personalized tournament pages<br/>
 Personalized player statistics<br/>
 Interactive map for places to play
 ## Code Example
-*put code example here
+*put code example here*
 ## Installation
-*any installation instructions here
+*any installation instructions here*
 ## API Reference
-*API information here
+*API information here*
 ## Tests
-*put coded test example here
+*put coded test example here*
 ## How to use?
-*instructions for how to use application here
+*instructions for how to use application here*
 ## Contribute
-*put code example here
+*put code example here*
 ## Credits
-*put code example here
+*put code example here*
 ## License
-*any future license can be placed here
+*any future license can be placed here*
