@@ -1,11 +1,11 @@
 ## ThinkPickleball.com
-*Tournament Management System
-*Tournament Statistics
-*Player Statistics
-*Places to Play
-*E-Commerce
+Tournament Management System
+Tournament Statistics
+Player Statistics
+Places to Play
+E-Commerce
 ## Mission
-One stop application for everyone's personal Pickleball needs
+One stop application for personalized Pickleball needs
 ## Framework
 Future conversion to Angular
 ## Features
